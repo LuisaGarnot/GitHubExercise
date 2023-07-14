@@ -1,0 +1,31 @@
+body{
+    background-color: pink;
+    margin-top: 30px 20px;      
+}
+label{
+color:#00337C; 
+font-family: 'Montserrat', sans-serif;
+font-weight: 700;
+}
+button{
+    color:#00337C; 
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+h1{
+color: #088395;
+padding-bottom: 20px;
+font-family: 'Montserrat', sans-serif;
+font-weight: 900;
+}
+li{
+    color: #2E8A99;
+    padding: 15px 5px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    margin-left: 20px 10px;    
+}
+.finished-task{
+    color:#93BFCF;
+    text-decoration: line-through    
+}
